@@ -1,2 +1,4 @@
 hi for git.
 change in mid
+not commit and push in git
+branch commit from x
